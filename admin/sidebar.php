@@ -81,9 +81,9 @@
             </ul>
           </li>
           <li class="nav-item dropdown">
-    <a href="./index.php?page=view_feedback" class="nav-link nav-view-feedback">
+    <a href="./index.php?page=feedback_list" class="nav-link nav-feedback_list">
         <i class="nav-icon fas fa-comments"></i>
-        <p>View Feedback</p>
+        <p>Feedback</p>
     </a>
 </li>
           <li class="nav-item">
